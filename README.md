@@ -6,7 +6,7 @@ Below is a README file for the script `homoplasy_finder_help.sh`:
 
 ---
 
-# Tree Annotation Script
+# Homoplasy Tree Annotation Script
 
 ## Description
 This script is designed to facilitate the annotation of a tree file using a Java program. It takes as input a tree file (in Newick format) and a CSV file containing presence/absence information. The script then utilizes a Java program to generate an annotated tree based on this information.
